@@ -1,0 +1,6 @@
+spring:
+  zipkin:    base-url: http://localhost:9411/
+  application:
+    name: serviceTwo
+    
+server:  port: 8081

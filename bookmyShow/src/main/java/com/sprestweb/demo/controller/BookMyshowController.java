@@ -19,7 +19,7 @@ import com.sprestweb.demo.repository.BookMyShowRepository;
 @RequestMapping("BookMyShow/Service")
 public class BookMyshowController {
 
-	
+	//log
 	@Autowired
 	private BookMyShowRepository repository;
 
